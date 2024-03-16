@@ -11,9 +11,9 @@
 <br/>
 ## Template Pic <br/>
   
-|        Main         |  Product-Page |
-:-------------------------:|:-------------------------:
-<img src='https://github.com/Alikanan-a/Tea-Ecommerce-template/blob/main/images/ScreenShots/Screenshot%202024-03-16%20at%2016-14-47%20Teab.png' width="700" > |  <img src='https://github.com/Alikanan-a/male-fashion-E-commeres-template/blob/main/img/ScreenShots/Screenshot%202024-03-14%20at%2022-01-24%20Male-Fashion%20Template.png' width="400"> <img src='https://github.com/Alikanan-a/male-fashion-E-commeres-template/blob/main/img/ScreenShots/Screenshot%202024-03-14%20at%2022-01-24%20Male-Fashion%20Template.png' width="400"> |
+|        Main         |
+:-------------------------:|
+<img src='https://github.com/Alikanan-a/Tea-Ecommerce-template/blob/main/images/ScreenShots/Screenshot%202024-03-16%20at%2016-14-47%20Teab.png' > | 
 
 <br/>
 
